@@ -7,6 +7,7 @@
 <title>hello world</title>
 </head>
 <body>
-	<font color='green'>锄禾日当午，汗滴禾下土</font>
+	<h3>锄禾日当午，汗滴禾下土</h3>
+	<h3>谁知盘中餐，粒粒皆辛苦</h3>
 </body>
 </html>
